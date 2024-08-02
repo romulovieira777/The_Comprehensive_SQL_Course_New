@@ -1,0 +1,37 @@
+Updates to this Course
+
+This course has gone through significant updates since its initial release.
+
+What’s New?
+
+MySQL: We are now using MySQL in this course. MySQL is a free, open-source, and widely-used database management system,
+to bring practical, industry-relevant skills directly to your learning experience.
+
+Streamlined Structure: The course follows a more intuitive structure, where each concept naturally builds upon the last,
+simplifying the journey through complex SQL topics.
+
+Additional Content: I've added new sections and rich content to widen the scope of your learning, ensuring a
+well-rounded mastery of SQL.
+
+Greater Depth: I've enriched the course material to offer more in-depth exploration of each subject, allowing you to not
+just learn, but truly understand and excel in SQL.
+
+Version Portuguese:
+Atualizações para este Curso
+
+Este curso passou por atualizações significativas desde o seu lançamento inicial.
+
+O que há de novo?
+
+MySQL: Estamos agora usando o MySQL neste curso. O MySQL é um sistema de gerenciamento de banco de dados gratuito,
+de código aberto e amplamente utilizado, para trazer habilidades práticas e relevantes para a indústria diretamente para
+sua experiência de aprendizado.
+
+Estrutura Simplificada: O curso segue uma estrutura mais intuitiva, onde cada conceito naturalmente se baseia no último,
+simplificando a jornada por tópicos SQL complexos.
+
+Conteúdo Adicional: Adicionei novas seções e conteúdo rico para ampliar o escopo de sua aprendizagem, garantindo um
+domínio bem-arredondado do SQL.
+
+Maior Profundidade: Enriqueci o material do curso para oferecer uma exploração mais aprofundada de cada assunto,
+permitindo que você não apenas aprenda, mas realmente entenda e se destaque no SQL.
